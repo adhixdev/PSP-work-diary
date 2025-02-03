@@ -1,6 +1,6 @@
 # Profile: Adithyan Santhakumar
-### Team: Four XLN
-### Weekly Session: Monday 02:00
+### Team: XLN 4
+### Weekly Session: Monday 14:00
 ### Team members
 - *Adithyan Santhakumar*
 - Athul Krishna
