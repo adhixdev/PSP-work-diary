@@ -2,7 +2,7 @@
 # Week Five
 
 ## Task Completed
-During this sprint week, we focused on implementing core functionalities and refining the project. We successfully integrated several key features and addressed feedback received on 20/02/25. Additionally, I completed the STAR report.
+During this sprint week, we focused on implementing core functionalities and refining the project. We successfully integrated several key features and addressed feedback received on 20/02/25. 
 
 ## Feedback and Tasks to Implement
 
