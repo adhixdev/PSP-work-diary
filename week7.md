@@ -3,7 +3,7 @@
 ## Task Completed  
 This week, we focused on refining the dashboard's backend logic.  
 - Key statistics and case summaries are now displayed correctly.  
-- Query optimizations have been implemented for better data retrieval performance.  
+- Query optimizations have been implemented for better data retrieval performance.   
 - Error handling mechanisms were introduced to prevent crashes.  
 - Initial testing has been conducted to validate the implementation.  
 
